@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DennisBetianu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript and the framework Laravel
-- 💞️ I’m looking to collaborate on 
 - 📫 You can reach me on Linkedin www.linkedin.com/in/dennis-beniamin-betianu-170814234
 
 <!---
