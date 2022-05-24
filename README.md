@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @DennisBetianu
+- 🏠 I live in Italy, in Trieste
 - 👀 I’m interested in coding
+- ⚡ I know html, CSS, Bootstrap and Javascript
 - 📫 You can reach me on Linkedin www.linkedin.com/in/dennis-beniamin-betianu-170814234
 
 <!---
